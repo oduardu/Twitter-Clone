@@ -26,9 +26,9 @@ yarn dev
 
 ## Tecnologias Utilizadas
 
- [X] TypeScript
- [X] ReactJS
- [X] Styled Components
- [X] React-Router-Dom
+ [X]: TypeScript
+ [X]: ReactJS
+ [X]: Styled Components
+ [X]: React-Router-Dom
 
  
